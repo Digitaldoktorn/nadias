@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b35df01e-e2ae-4bfa-8984-d47ce9d6f6c3" name="Default Changelist" comment="" />
+    <list default="true" id="b35df01e-e2ae-4bfa-8984-d47ce9d6f6c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/brownie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mushrooms.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/patio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/salad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +29,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -107,6 +127,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YMKcBdG72i8WwKLx5bIblmk7eW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -114,12 +135,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -147,7 +170,7 @@
       <workItem from="1582987733186" duration="4374000" />
       <workItem from="1583007600183" duration="1349000" />
       <workItem from="1583043588079" duration="5347000" />
-      <workItem from="1583082603925" duration="418000" />
+      <workItem from="1583082603925" duration="1972000" />
     </task>
     <servers />
   </component>
@@ -180,10 +203,10 @@
     </state>
     <state x="566" y="255" width="753" height="574" key="find.popup/3840.351.1280.777/38.23.1882.1057/1920.23.1920.1057@38.23.1882.1057" timestamp="1583074690776" />
     <state x="567" y="255" width="752" height="574" key="find.popup/3840.351.1280.777/40.23.1880.1057/1920.23.1920.1057@40.23.1880.1057" timestamp="1582829597668" />
-    <state x="467" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1583045275361">
-      <screen x="39" y="23" width="1881" height="1057" />
+    <state x="466" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1583084458944">
+      <screen x="38" y="23" width="1882" height="1057" />
     </state>
-    <state x="466" y="48" width="838" height="1032" key="search.everywhere.popup/3840.351.1280.777/38.23.1882.1057/1920.23.1920.1057@38.23.1882.1057" timestamp="1582990033976" />
+    <state x="466" y="48" width="838" height="1032" key="search.everywhere.popup/3840.351.1280.777/38.23.1882.1057/1920.23.1920.1057@38.23.1882.1057" timestamp="1583084458944" />
     <state x="467" y="48" width="838" height="1032" key="search.everywhere.popup/3840.351.1280.777/39.23.1881.1057/1920.23.1920.1057@39.23.1881.1057" timestamp="1583045275361" />
   </component>
 </project>
