@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35df01e-e2ae-4bfa-8984-d47ce9d6f6c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/js/components/CategoryManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/categories/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrate.log" beforeDir="false" afterPath="$PROJECT_DIR$/migrate.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,7 +125,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YMKcBdG72i8WwKLx5bIblmk7eW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -163,7 +173,7 @@
       <workItem from="1583043588079" duration="5347000" />
       <workItem from="1583082603925" duration="4294000" />
       <workItem from="1583133136543" duration="16000" />
-      <workItem from="1583263976931" duration="2116000" />
+      <workItem from="1583263976931" duration="3817000" />
     </task>
     <servers />
   </component>
@@ -191,9 +201,10 @@
     </state>
     <state width="1617" height="252" key="GridCell.Tab.0.right/3840.351.1280.777/38.23.1882.1057/1920.23.1920.1057@38.23.1882.1057" timestamp="1583082591077" />
     <state width="1738" height="270" key="GridCell.Tab.0.right/3840.351.1280.777/39.23.1881.1057/1920.23.1920.1057@39.23.1881.1057" timestamp="1582838054507" />
-    <state x="484" y="193" key="Vcs.Push.Dialog.v2" timestamp="1583095940191">
-      <screen x="38" y="23" width="1882" height="1057" />
+    <state x="455" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583270516970">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="455" y="174" key="Vcs.Push.Dialog.v2/3840.328.1280.800/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1583270516970" />
     <state x="484" y="193" key="Vcs.Push.Dialog.v2/3840.351.1280.777/38.23.1882.1057/1920.23.1920.1057@38.23.1882.1057" timestamp="1583095940191" />
     <state x="539" y="237" width="769" height="587" key="find.popup" timestamp="1583265297458">
       <screen x="0" y="0" width="1920" height="1080" />
